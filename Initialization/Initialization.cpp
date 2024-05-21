@@ -22,3 +22,10 @@ public:
 	}
 };
 
+int main()
+{
+	mahasiswa mgs(12, "Asroni", 90.5);
+
+	return 0;
+}
+
